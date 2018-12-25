@@ -1,4 +1,4 @@
-Список команд SQLite из документации:
+SQLite Comands from documentation:
 .archive ...           Manage SQL archives: ".archive --help" for details
 .auth ON|OFF           Show authorizer callbacks
 .backup ?DB? FILE      Backup DB (default "main") to FILE
